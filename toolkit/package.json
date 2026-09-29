@@ -1,0 +1,11 @@
+{
+  "name": "lesson-deck-pipeline",
+  "version": "1.0.0",
+  "description": "Slide-deck builder used by deck.js to generate .pptx lesson decks",
+  "main": "deck.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}
